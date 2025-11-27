@@ -23,4 +23,4 @@
 
 ## Commit & Pull Request Guidelines
 - Use short, imperative commit messages (e.g., `Add arm64 neon tune`, `Fix muxer timeout`). Group platform-specific changes per commit when possible.
-- Open PRs against the development branches (`development`, `development-react-native`, or `development-flutter`) rather than `main`. Describe what changed, which platform(s) were built, flags used, and test evidence. Link related issues and include screenshots/log excerpts when UI or build output changes.
+- Open PRs against the development branches (`development`, `development-react-native`, or `development-flutter`) rather than `main`. Describe what changed, which platform(s) were built, flags used, and test evidence. Link related issues and include screenshots/log excerpts when UI or build output changes. 
